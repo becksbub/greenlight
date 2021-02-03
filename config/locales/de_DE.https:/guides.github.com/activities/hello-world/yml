@@ -320,7 +320,7 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "Dies ist kein öffentlicher Videokonferenz-Sever."
+    about: "Dies ist kein öffentlicher Videokonferenz-Server."
     welcome: Willkommen
     video: x
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
