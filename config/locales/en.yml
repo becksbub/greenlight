@@ -17,6 +17,7 @@
 # Locale.
 
 en:
+  sixbeckmedia: Sixbeckmedia.de
   activerecord:
     attributes:
       user:
